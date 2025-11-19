@@ -1,2 +1,2 @@
 # Photonics-and-Quantum-Systems
-Research on topics related to Chil Level Photonics and Quantum computing.
+Research on topics related to Chip Level Photonics and Quantum computing.
